@@ -1,24 +1,60 @@
+/* Titles and headers */
 .bigTitle { 
     font-size: 50px;
     font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 
-    margin-top: 200px;
-    margin-right: 100px;
+    margin-top: 150px;
     margin-bottom: 75px;
-    margin-left: 100px;
+}
+
+.isolated {
+    padding: 5px;
+    margin: 80px;
 }
 
 .customText1 {
+    font-size: 40px;
+    color: #706874; 
+}
+.customText2 {
+    font-size: 20px;
     color: #706874; 
 }
 
+/* Navbar */
+li {
+    text-align: center;
+    list-style-type: none;
+    float: left;
+  }
+
+.navbar {
+    align-self: center;
+    margin: 20px;
+    padding: 0px;
+    display: inline-block;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
 a {
-    color: lightcoral;
+    font-size: 15px;
+    color: #706874; 
+    display: block;
+    padding-left: 70px;
+    padding-right: 70px;
 }
+
 a:hover {
-    background-color: pink;
-    color: white;
+    color: #58525b;
+    font-size: 16px;
+    padding-left: 69px;
+    padding-right: 69px;
 }
+
 
 .center {
     display: block;
