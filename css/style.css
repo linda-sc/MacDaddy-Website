@@ -1,14 +1,13 @@
 /* Titles and headers */
 .bigTitle { 
     font-size: 50px;
-    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 
     margin-top: 150px;
     margin-bottom: 75px;
 }
 
 body {
-    background-color:#605d74;
+    background-color:#9d9abf;
 }
 
 
