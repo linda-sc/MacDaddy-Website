@@ -7,18 +7,28 @@
     margin-bottom: 75px;
 }
 
+body {
+    background-color: white;
+    background-color:#605d74;
+}
+
+
 .isolated {
     padding: 5px;
     margin: 80px;
 }
 
 .customText1 {
-    font-size: 40px;
-    color: #706874; 
+    font-size: 30px;
+    color:white; 
+    text-emphasis: bold;
+    font-family: 'Bree Serif', serif;
 }
+
 .customText2 {
     font-size: 20px;
-    color: #706874; 
+    color: #e3e3f4; 
+    font-family: 'Bree Serif', serif;
 }
 
 /* Navbar */
@@ -26,6 +36,7 @@ li {
     text-align: center;
     list-style-type: none;
     float: left;
+    font-family: 'Bree Serif', serif;
   }
 
 .navbar {
@@ -42,14 +53,14 @@ li {
 
 a {
     font-size: 15px;
-    color: #706874; 
+    color: #e3e3f4; 
     display: block;
     padding-left: 70px;
     padding-right: 70px;
 }
 
 a:hover {
-    color: #58525b;
+    color: #bcbcdb;
     font-size: 16px;
     padding-left: 69px;
     padding-right: 69px;
