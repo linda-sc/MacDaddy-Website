@@ -13,9 +13,15 @@ img {
     object-fit: cover;
 }
 
+img.flipped {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
 .isolated {
     padding: 5px;
-    margin: 70px;
+    margin-top: 70px;
+    margin-bottom: 70px;
 }
 
 .customText1 {
