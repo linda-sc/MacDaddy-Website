@@ -21,12 +21,12 @@ img.flipped {
 
 .isolated {
     padding: 5px;
-    margin-top: 70px;
-    margin-bottom: 70px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .customText1 {
-    font-size: 30px;
+    font-size: 35px;
     color:white; 
     text-emphasis: bold;
     font-family: 'Bree Serif', serif;
