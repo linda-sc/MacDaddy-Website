@@ -44,6 +44,12 @@ img.flipped {
     font-family: 'Bree Serif', serif;
 }
 
+.customText4 {
+    font-size: 14px;
+    color: #e3e3f4; 
+    font-family: 'Bree Serif', serif;
+}
+
 /* Navbar */
 li {
     text-align: center;
